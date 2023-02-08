@@ -165,7 +165,7 @@ body {
 
 
 
-@media (max-width:319px)  {
+@media (max-width:320px)  {
     body {
         background-image: url(Images/mobilebg.avif);
         background-repeat: no-repeat;
